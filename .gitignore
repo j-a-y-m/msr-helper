@@ -4,10 +4,9 @@
 # Binaries for programs and plugins
 *.exe
 *.exe~
-*.dll
+#*.dll
 *.so
 *.dylib
-
 # Test binary, built with `go test -c`
 *.test
 
